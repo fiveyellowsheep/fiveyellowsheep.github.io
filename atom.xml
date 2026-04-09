@@ -10,7 +10,23 @@
   <rights>All rights reserved 2026, Fiveyellowsheep</rights>
   <subtitle>Fiveyellowsheep' Blog是一个风格十分有趣的个人博客，平台所涵盖的内容领域十分广泛，既包含各类互联网相关资讯，也收录了贴近日常的生活类分享，内容丰富且多元。</subtitle>
   <title>Fiveyellowsheep' Blog</title>
-  <updated>2026-04-08T06:54:21.819Z</updated>
+  <updated>2026-04-09T00:30:37.315Z</updated>
+  <entry>
+    <author>
+      <name>Fiveyellowsheep</name>
+    </author>
+    <content>
+      <![CDATA[<html><head></head><body><p>不知道有没有人发现，从昨天开始，小草的日记本就无法正常访问了。打开以后会提示报错。</p><span id="more"></span><p>这个问题我想了很久，原来的博客是用的腾讯云北京轻量云+Edgeone进行全球加速。使用的是wordpress建站程序，但是这个方式是有缺点的。</p><p>首先就是费用，使用云服务器费用比较高，到期后每年续费费用达500+，这个价格对我来说实在是无法接受。其次，使用云服务器需要自己维护，虽然现在有宝塔面板这种可视化的东西，但是最后总还是需要人来维护的，在网上看到了不少博客被黑的帖子，又看了看后台wordfence每天的暴力破解报告，实在是让我有点动心。</p><p>综合考虑，博客更换域名为fiveyellowsheep.ink 博客名更改为 Fiveyellowsheep’s Blog。原来的域名做301重定向。</p><p>现在博客搭建在github pages，使用edgeone pages进行加速。博客程序采用了hexo。博客升级后将更加轻量，删除了多余的功能，成本更低。</p><p>但缺点是没有了评论区，但这倒也无所谓。没有评论区能让我更好的写作。</p></body></html>]]>
+    </content>
+    <id>https://fiveyellowsheep.ink/posts/11971479.html</id>
+    <link href="https://fiveyellowsheep.ink/posts/11971479.html"/>
+    <published>2026-04-09T00:18:56.000Z</published>
+    <summary>
+      <![CDATA[<html><head></head><body><p>不知道有没有人发现，从昨天开始，小草的日记本就无法正常访问了。打开以后会提示报错。</p></body></html>]]>
+    </summary>
+    <title>小草的日记本全面升级为Fiveyellowsheep'Blog</title>
+    <updated>2026-04-09T00:30:37.315Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Fiveyellowsheep</name>
